@@ -5,7 +5,7 @@ NAME = Check UVW
 AUTHOR = MastaMan
 DEV = ViscoCG
 HELP = \help\
-CAT=ARCHVIZ
+CAT=IKEA
 LAUNCH=\\visco.local\data\Instal_Sync\scripts\scripts\_IKEA\IKEA Check UVW.ms
 
 [ABOUT]
